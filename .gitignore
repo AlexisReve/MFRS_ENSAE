@@ -1,5 +1,8 @@
 /Face_detection/First_test/yolov8n-face.pt
+/Face_detection/First_test/yolov8n.pt
 .DS_Store
 ._.DS_Store
 **/.DS_Store
 **/._.DS_Store
+/real_time_face_detection/output
+/real_time_face_detection/PF_milkshake.mp4
